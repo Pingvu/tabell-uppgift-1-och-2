@@ -1,0 +1,23 @@
+table, th, td{
+ border: 1px solid black;
+ border-collapse: collapse;
+}
+table{
+    width: 200px;
+    height: 200px;
+}
+.color{
+    background-color: darkturquoise;
+}
+.color1{
+ background-color: red;
+}
+.color2{
+    background-color: yellow;
+}
+.color3{
+    background-color: limegreen;
+}
+.color4{
+    background-color: black;
+}
